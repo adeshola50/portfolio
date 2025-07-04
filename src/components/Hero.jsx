@@ -13,7 +13,7 @@ const Hero = () => (
       animate={{ opacity: 1, x: 0 }}
       transition={{ duration: 0.8, ease: "easeOut" }}
     >
-      <h1 className="text-4xl md:text-5xl font-bold mb-4">Hi, I’m Adeshola 👋</h1>
+      <h1 className="text-4xl md:text-5xl font-bold mb-4">Hi, I’m Adeshola Oluwaseun👋</h1>
       <p className="text-lg md:text-xl">
         A passionate <span className="text-teal-400">Frontend Developer</span> and{" "}
         <span className="text-teal-400">Data Analyst</span> crafting responsive UIs
