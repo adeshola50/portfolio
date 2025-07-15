@@ -1,6 +1,6 @@
 # Adeshola Oluwaseun – Developer Portfolio
 
-🚀 Live Site: [https://stalwart-daifuku-46c5a0.netlify.app](https://stalwart-daifuku-46c5a0.netlify.app)
+🚀 Live Site: https://dev-adeshola-portfolio.netlify.app/
 
 This is my personal developer portfolio built with *React, **Tailwind CSS, and **Vite*.  
 It showcases my skills, projects, and contact details in a clean, responsive design.
